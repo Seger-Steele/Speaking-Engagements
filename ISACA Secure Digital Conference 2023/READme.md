@@ -3,7 +3,7 @@
 
 While at SDC 2023, I covered, "How to be a better Security Practitioner."  Nothing groundbreaking, but for those who are interested in more, see the screenshot below of my agenda and find my PowerPoint presentation under this directory!  
 
-<img width="497" alt="SDC 2023 Agenda Screenshot" src="https://github.com/Seger-Steele/Speaking-Engagements/assets/154108600/34962b74-0764-43fb-b2ca-ebb2f723dd5f">  
+<img width="497" alt="SDC 2023 Agenda Screenshot" src="https://github.com/Seger-Steele/Speaking-Engagements/assets/154108600/34962b74-0764-43fb-b2ca-ebb2f723dd5f">  <br>
 (Screenshot from the Agenda with my talk synopsis)
 
 ![SDC 2023 Speaking Picture](https://github.com/Seger-Steele/Speaking-Engagements/assets/154108600/8e61f147-9198-4974-a318-f0770f5ca12a)

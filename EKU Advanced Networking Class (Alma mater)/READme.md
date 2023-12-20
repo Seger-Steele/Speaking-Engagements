@@ -1,5 +1,5 @@
 ### EKU Advanced Networking Class (Alma Mater)
-I returned to Eastern Kentucky University 2 years after graduating and spoke to a old professor's class about my experieince in Cyber Security thus far, what I would have differently when looking for a job and prepping for graduation, my outlook and a Q/A session! <br>
+I returned to Eastern Kentucky University 2 years after graduating and spoke to an old professor's class about; my experience in Cybersecurity thus far, what I would have differently when looking for a job/prepping for graduation, my outlook on the field and a Q/A session! <br>
 
 ![Speaking 2](https://github.com/Seger-Steele/Speaking-Engagements/assets/154108600/7d23c2b2-4cd4-46bf-abe7-2201dcc9e2fa) <br>
 (Speaking during the session) <br> 

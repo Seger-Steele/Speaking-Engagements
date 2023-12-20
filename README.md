@@ -1,4 +1,1 @@
-# Speaking-Engagements
-
-
-# Secure Digital Confrence 2023 
+## Pop into the above directories to see more about my speaking sessions at ISACA SDC 2023 and my alma mater, Eastern Kentucky University!
